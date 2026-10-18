@@ -17,11 +17,19 @@
 
 <a name="about"></a>
 
+
+<a name="about"></a>
+
+<div align="left">
+
+<sub>✦ GET TO KNOW ME</sub>
+
 <img
-  src="./assets/about-title.svg"
-  width="100%"
-  alt="Behind the Code — Get to know me"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1600&color=EBA7D9&width=520&height=65&lines=Behind+the+Code&repeat=false"
+  alt="Behind the Code"
 />
+
+</div>
 
 <table>
 <tr>
