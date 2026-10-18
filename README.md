@@ -152,3 +152,83 @@
 
 </details>
 
+
+<a name="beyond"></a>
+
+<div align="left">
+
+<sub>✦ OFF THE CLOCK</sub>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1600&color=EBA7D9&width=520&height=65&lines=Beyond+the+IDE&repeat=false"
+  alt="Beyond the IDE"
+/>
+
+</div>
+
+A little more about life outside the code.
+
+<p>
+  <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%23B9A0DD" width="20" height="20" alt="Gaming" />
+  &nbsp; <b>Gaming</b> — A bit of competitive fun.
+</p>
+
+<p>
+  <img src="https://api.iconify.design/lucide/headphones.svg?color=%23E5A3CD" width="20" height="20" alt="Music" />
+  &nbsp; <b>Music</b> — BTS on repeat.
+</p>
+
+<p>
+  <img src="https://api.iconify.design/lucide/paw-print.svg?color=%23B9A0DD" width="20" height="20" alt="Dogs" />
+  &nbsp; <b>My sidekicks</b> — Lucky & Rex.
+</p>
+
+<p>
+  <img src="https://api.iconify.design/lucide/moon-star.svg?color=%23E5A3CD" width="20" height="20" alt="Night" />
+  &nbsp; <b>Cozy nights</b> — A little peace after sunset.
+</p>
+
+<br>
+
+<details>
+<summary><b>✧ Open my developer note</b></summary>
+
+<br>
+
+```ts
+const lita = {
+  soundtrack: "BTS",
+  downtime: "Gaming",
+  companions: ["Lucky", "Rex"],
+
+  favoriteBuilds: [
+    "thoughtful interfaces",
+    "well-designed systems"
+  ],
+
+  mindset: [
+    "Understand",
+    "Design",
+    "Build",
+    "Test",
+    "Improve"
+  ]
+} as const;
+```
+
+</details>
+
+<br>
+
+<div align="center">
+
+<img
+  src="./assets/footer.png"
+  width="100%"
+  alt="One commit at a time, with a little stardust"
+/>
+
+<sub>Thanks for visiting my little corner of GitHub! ♡</sub>
+
+</div>
+
