@@ -17,7 +17,6 @@
 
 <a name="about"></a>
 
-
 <a name="about"></a>
 
 <div align="left">
@@ -33,58 +32,41 @@
 
 <table>
 <tr>
-<td width="68%" valign="top">
-<p><strong>Hi, I'm Lita!</strong> 🌙 I'm in my <strong>8th semester of Software Engineering</strong> at <strong>Universidad Nacional Mayor de San Marcos (UNMSM)</strong>, Peru.</p>
-<p>I love creating interfaces that feel intuitive and meaningful, but what excites me most is seeing <strong>how every piece of a software system fits together</strong>. From understanding requirements and sketching user flows to designing databases, building APIs, testing, and improving the experience, I enjoy being part of the <em>entire software development lifecycle</em>.</p>
-<p>I don't like rushing straight into code. I prefer asking questions, shaping ideas, and building a solid foundation first. To me, <strong>good software should be as thoughtfully designed as it is beautifully built</strong>.</p>
-<p>These days, I'm exploring <strong>automation with GitHub Actions</strong>, monitoring with <strong>Uptime Kuma</strong>, and the possibilities of <strong>AI and modern web applications</strong>. I haven't chosen one path yet... curiosity keeps opening new ones.</p>
-<p><em>“Good software starts with good questions.”</em></p>
+<td width="70%" valign="top">
+
+<p>
+  <strong>Hi, I'm Lita!</strong> Software Engineering student
+  who enjoys building ideas from concept to implementation.
+</p>
+
+<ul>
+  <li>🎓 <b>Education:</b> 8th-semester Software Engineering student at UNMSM, Peru.</li>
+
+  <li>🎨 <b>Interests:</b> Frontend development, UX/UI, and full-stack applications.</li>
+
+  <li>🧩 <b>My approach:</b> Understand requirements, design solutions, then build and test.</li>
+
+  <li>⚙️ <b>I also enjoy:</b> Databases, backend development, APIs, and automation.</li>
+
+  <li>🌱 <b>Currently exploring:</b> AI, GitHub Actions, and Uptime Kuma.</li>
+</ul>
+
 </td>
-<td width="32%" align="center" valign="middle">
-<img src="./assets/chimmy-coder.png" width="245" alt="Chimmy coding with two little dogs" />
-<sub>My late-night coding companions: Lucky & Rex 🐾</sub>
+
+<td width="30%" align="center" valign="middle">
+
+<img
+  src="./assets/chimmy-coder.png"
+  width="230"
+  alt="Chimmy"
+/>
+
 </td>
 </tr>
 </table>
-<img src="./assets/divider.png" width="100%" alt="Lavender stardust divider" />
-<a id="mindset"></a>
 
 ## ✦ My little toolbox
 
-<div align="center">
-<img src="./assets/toolbox.png" width="100%" alt="Languages: Python, TypeScript, JavaScript. Web and APIs: React, Node.js, FastAPI, Tailwind. Data and Cloud: PostgreSQL, MySQL, Supabase. Workflow: Docker, Git and GitHub, Testing and QA." />
-</div>
-
-<sub>My toolbox is always growing — these are technologies I've worked with or am actively learning.</sub>
-
-<img src="./assets/divider.png" width="100%" alt="Pastel stardust divider" />
-
-<a name="projects"></a>
-
-## ✦ Things I'm building
-
-A few academic and personal ideas that reflect what I love to learn:
-
-<img src="./assets/project-1.png" width="100%" alt="SGPI — Research workflows" />
-
-**Research-management systems · Team project**  
-Integrating institutional processes, improving traceability, and thinking carefully about data models, APIs and quality.
-
-<img src="./assets/project-2.png" width="100%" alt="SimulaCarrera — Career discovery" />
-
-**Career exploration · Startup concept**  
-An idea for helping students discover career paths through interactive simulations and useful guidance.
-
-<img src="./assets/project-3.png" width="100%" alt="Parallel computing lab" />
-
-**High-performance computing · University project**  
-Exploring flood simulation with Monte Carlo methods, MPI, OpenMP and parallel performance metrics.
-
-<!-- When ready, add links to public repos below each project. -->
-
-<img src="./assets/divider.png" width="100%" alt="Pastel stardust divider" />
-
-<a name="beyond"></a>
 
 ## ✦ Beyond the IDE
 
