@@ -63,7 +63,7 @@
 
   <li>
     <img src="https://api.iconify.design/lucide/sparkles.svg?color=%23B9A0DD" width="20" alt="Exploring" />
-    <b>Currently exploring:</b> AI, GitHub Actions, and Uptime Kuma.
+    <b>Currently exploring:</b> AI, N8N, GitHub Actions, and Uptime Kuma.
   </li>
 </ul>
 
