@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.png" width="100%" alt="Night-sky GitHub banner: Lita, Software Engineering student, with Chimmy, Lucky and Rex" />
+<img src="./assets/hero2.png" width="100%" alt="Night-sky GitHub banner: Lita, Software Engineering student, with Chimmy, Lucky and Rex" />
 
 <br />
 
