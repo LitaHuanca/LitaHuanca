@@ -39,17 +39,34 @@
   who enjoys building ideas from concept to implementation.
 </p>
 
+
 <ul>
-  <li>🎓 <b>Education:</b> 8th-semester Software Engineering student at UNMSM, Peru.</li>
+  <li>
+    <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23B9A0DD" width="20" alt="Education" />
+    <b>Education:</b> 8th-semester Software Engineering student at UNMSM, Peru.
+  </li>
 
-  <li>🎨 <b>Interests:</b> Frontend development, UX/UI, and full-stack applications.</li>
+  <li>
+    <img src="https://api.iconify.design/lucide/palette.svg?color=%23E5A3CD" width="20" alt="Interests" />
+    <b>Interests:</b> Frontend development, UX/UI, and full-stack applications.
+  </li>
 
-  <li>🧩 <b>My approach:</b> Understand requirements, design solutions, then build and test.</li>
+  <li>
+    <img src="https://api.iconify.design/lucide/workflow.svg?color=%23B9A0DD" width="20" alt="Approach" />
+    <b>My approach:</b> Understand requirements, design solutions, then build and test.
+  </li>
 
-  <li>⚙️ <b>I also enjoy:</b> Databases, backend development, APIs, and automation.</li>
+  <li>
+    <img src="https://api.iconify.design/lucide/database.svg?color=%23E5A3CD" width="20" alt="Development" />
+    <b>I also enjoy:</b> Databases, backend development, APIs, and automation.
+  </li>
 
-  <li>🌱 <b>Currently exploring:</b> AI, GitHub Actions, and Uptime Kuma.</li>
+  <li>
+    <img src="https://api.iconify.design/lucide/sparkles.svg?color=%23B9A0DD" width="20" alt="Exploring" />
+    <b>Currently exploring:</b> AI, GitHub Actions, and Uptime Kuma.
+  </li>
 </ul>
+
 
 </td>
 
