@@ -82,34 +82,73 @@
 </tr>
 </table>
 
-## ✦ My little toolbox
+
+<a name="toolbox"></a>
+
+<div align="left">
+
+<sub>✦ TECHNOLOGIES & TOOLS</sub>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1600&color=EBA7D9&width=520&height=65&lines=My+Tech+Stack&repeat=false"
+  alt="My Tech Stack"
+/>
+
+</div>
 
 
-## ✦ Beyond the IDE
+<sub>Technologies and tools I've worked with, organized by how I use them.</sub>
 
-When I'm not thinking about endpoints or databases, you'll probably find me:
+#### ✧ Languages
 
-🎮 Playing video games &nbsp; · &nbsp; 🎧 Listening to BTS &nbsp; · &nbsp; 🐾 Hanging out with **Lucky & Rex** &nbsp; · &nbsp; 🌙 Enjoying a cozy night
+![JavaScript](https://img.shields.io/badge/JavaScript-695A83?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-695A83?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-695A83?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-695A83?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-695A83?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+#### ✧ Frontend & UI
+
+![React](https://img.shields.io/badge/React-8D627F?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-8D627F?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-8D627F?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-8D627F?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-8D627F?style=for-the-badge&logo=css&logoColor=white)
+
+#### ✧ Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-586C87?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-586C87?style=for-the-badge&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-586C87?style=for-the-badge&logo=postman&logoColor=white)
+
+#### ✧ Databases & Data
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-587A7A?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-587A7A?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-587A7A?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-587A7A?style=for-the-badge&logo=oracle&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-587A7A?style=for-the-badge&logo=supabase&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-587A7A?style=for-the-badge&logo=powerbi&logoColor=white)
+
+#### ✧ DevOps & Workflow
+
+![Git](https://img.shields.io/badge/Git-71668C?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-71668C?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-71668C?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-71668C?style=for-the-badge&logo=githubactions&logoColor=white)
+![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-71668C?style=for-the-badge&logo=uptimekuma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-71668C?style=for-the-badge&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-71668C?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-71668C?style=for-the-badge&logo=trello&logoColor=white)
 
 <details>
-<summary><b>☕ Open my tiny developer note</b></summary>
-<br />
+<summary><b>✧ More things I've explored</b></summary>
 
-```ts
-const lita = {
-  loves: ['thoughtful software', 'BTS', 'gaming', 'Lucky & Rex'],
-  curiousAbout: ['backend', 'quality engineering', 'data'],
-  mindset: 'Learn → Build → Test → Improve',
-  favoriteTimeToCode: 'after sunset 🌙'
-};
-```
+<br>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-816982?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-816982?style=for-the-badge&logo=keras&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-816982?style=for-the-badge&logo=arduino&logoColor=white)
 
 </details>
 
-<div align="center">
-
-<img src="./assets/footer.png" width="100%" alt="One commit at a time, with a little stardust — made with care by Lita, Lucky and Rex" />
-
-<sub>Thanks for visiting my little corner of GitHub! ♡</sub>
-
-</div>
