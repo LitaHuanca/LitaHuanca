@@ -1,0 +1,56 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000" height="235"
+     viewBox="0 0 1000 235">
+
+  <rect width="1000" height="235" rx="18"
+        fill="#241B36"/>
+
+  <!-- Small introductory label -->
+  <text x="38" y="43"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="18" font-weight="600"
+        letter-spacing="2"
+        fill="#E6A4DC">
+    ✦ GET TO KNOW ME
+  </text>
+
+  <!-- Main title -->
+  <text x="38" y="112"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="54" font-weight="700"
+        fill="#FFF5F8">
+    Behind the
+  </text>
+
+  <text x="343" y="112"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="54" font-weight="700"
+        fill="#EBA7D9">
+    Code
+  </text>
+
+  <!-- Decorative sparkle -->
+  <path d="M 510 84 L 515 96 L 527 101 L 515 106 L 510 118 L 505 106 L 493 101 L 505 96 Z"
+        fill="#E6A4DC"/>
+
+  <!-- Decorative underline -->
+  <rect x="38" y="132" width="530"
+        height="4" rx="2"
+        fill="#AD89D6"/>
+
+  <!-- Supporting description -->
+  <text x="38" y="182"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="21"
+        fill="#D5C4E2">
+    A little about the person who loves turning ideas
+  </text>
+  <text x="38" y="211"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="21"
+        fill="#D5C4E2">
+    into thoughtful software.
+  </text>
+
+</svg>

@@ -3,6 +3,7 @@
 <img src="./assets/hero2.png" width="100%" alt="Night-sky GitHub banner: Lita, Software Engineering student, with Chimmy, Lucky and Rex" />
 
 <br />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&amp;size=20&amp;duration=2600&amp;pause=1400&amp;color=ECB6E9&amp;center=true&amp;vCenter=true&amp;width=660&amp;height=48&amp;lines=Designing%20with%20intention;Building%20beyond%20the%20interface;Always%20curious%2C%20always%20creating" alt="Designing with intention. Building beyond the interface. Always curious, always creating." />
 
 **A little bit of logic, a little bit of imagination, and a lot of curiosity.** ✨
 
@@ -14,32 +15,31 @@
 
 <a name="about"></a>
 
-## ✦ A little about me
+<a name="about"></a>
+
+<img
+  src="./assets/about-title.svg"
+  width="100%"
+  alt="Behind the Code — Get to know me"
+/>
 
 <table>
 <tr>
-<td width="67%" valign="top">
-
-<p><strong>¡Hola! I'm Lita</strong> — a Software Engineering student at <strong>Universidad Nacional Mayor de San Marcos (UNMSM)</strong>, Peru. 🌙</p>
-<p>I enjoy transforming ideas into thoughtful software: understanding the problem first, designing a solid foundation, and then making everything work together.</p>
-<ul>
-  <li>🌷 <strong>I gravitate toward:</strong> backend development, APIs, databases, software quality and automation.</li>
-  <li>🧩 <strong>I believe in:</strong> planning before coding, clean data models and continuous improvement.</li>
-  <li>🚀 <strong>I'm exploring:</strong> data analytics, parallel computing and practical AI applications.</li>
-  <li>💫 <strong>Currently:</strong> learning, building and getting a little better with every project.</li>
-</ul>
+<td width="68%" valign="top">
+<p><strong>Hi, I'm Lita!</strong> 🌙 I'm in my <strong>8th semester of Software Engineering</strong> at <strong>Universidad Nacional Mayor de San Marcos (UNMSM)</strong>, Peru.</p>
+<p>I love creating interfaces that feel intuitive and meaningful, but what excites me most is seeing <strong>how every piece of a software system fits together</strong>. From understanding requirements and sketching user flows to designing databases, building APIs, testing, and improving the experience, I enjoy being part of the <em>entire software development lifecycle</em>.</p>
+<p>I don't like rushing straight into code. I prefer asking questions, shaping ideas, and building a solid foundation first. To me, <strong>good software should be as thoughtfully designed as it is beautifully built</strong>.</p>
+<p>These days, I'm exploring <strong>automation with GitHub Actions</strong>, monitoring with <strong>Uptime Kuma</strong>, and the possibilities of <strong>AI and modern web applications</strong>. I haven't chosen one path yet... curiosity keeps opening new ones.</p>
 <p><em>“Good software starts with good questions.”</em></p>
-
 </td>
-<td width="33%" valign="middle" align="center">
-<img src="./assets/chimmy-coder.png" width="260" alt="Chimmy coding at night, accompanied by two dogs" />
+<td width="32%" align="center" valign="middle">
+<img src="./assets/chimmy-coder.png" width="245" alt="Chimmy coding with two little dogs" />
+<sub>My late-night coding companions: Lucky & Rex 🐾</sub>
 </td>
 </tr>
 </table>
-
-<img src="./assets/divider.png" width="100%" alt="Pastel stardust divider" />
-
-<a name="toolbox"></a>
+<img src="./assets/divider.png" width="100%" alt="Lavender stardust divider" />
+<a id="mindset"></a>
 
 ## ✦ My little toolbox
 
