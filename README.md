@@ -7,8 +7,6 @@
 
 **A little bit of logic, a little bit of imagination, and a lot of curiosity.** ✨
 
-[About me](#about) · [Toolbox](#toolbox) · [Projects](#projects) · [Beyond the IDE](#beyond)
-
 </div>
 
 <img src="./assets/divider.png" width="100%" alt="Pastel stardust divider" />
