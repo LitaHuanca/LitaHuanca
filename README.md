@@ -218,15 +218,4 @@ const lita = {
 
 <br>
 
-<div align="center">
-
-<img
-  src="./assets/footer.png"
-  width="100%"
-  alt="One commit at a time, with a little stardust"
-/>
-
-<sub>Thanks for visiting my little corner of GitHub! ♡</sub>
-
-</div>
 
